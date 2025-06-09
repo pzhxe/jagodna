@@ -36,7 +36,7 @@ const galleryImages = [
     { src: 'https://images.pexels.com/photos/1454801/pexels-photo-1454801.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Krzesła przy stole' },
     { src: 'https://images.pexels.com/photos/1643385/pexels-photo-1643385.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Meble ogrodowe' },
     { src: 'https://images.pexels.com/photos/1457843/pexels-photo-1457843.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Lodówka i sprzęty' },
-    { src: 'https://images.pexels.com/photos/271897/pexels-photo-271897.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Pościel w sypialni' },
+    { src: 'https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Pościel w sypialni' },
     { src: 'https://images.pexels.com/photos/1080690/pexels-photo-1080690.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Lustro łazienkowe' },
     { src: 'https://images.pexels.com/photos/1396124/pexels-photo-1396124.jpeg?auto=compress&cs=tinysrgb&w=1600', alt: 'Zachód słońca nad górami' }
 ];
